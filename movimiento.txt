@@ -1,0 +1,2 @@
+entrada teclado +10
+salida mouse-2
